@@ -9,3 +9,5 @@ Back when UT99 was new, I got into modding via UnrealScript as was built into UT
 
 # Source Code
 Yeah, I know you want it. I'm still trying to figure out GitHub, but as soon as I have, I'll post the source code. As an appetite-whetter, I'd suggest looking at MessyKitty's use of the victim's Trace() function to spam blood decals. Also, check the way I did the spread function -- it's using the surface normal of the hit. :D
+
+Meantime, you can open the *MessyKitty.u* file in a text editor and see the source.
